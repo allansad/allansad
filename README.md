@@ -1,7 +1,14 @@
-## Hi there 👋
+## 안녕하세요 👋
+인류에 도움이 되는 것들을 만들고 싶어하는 개발자입니다.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+최근 '테스트하기 쉬운 코드가 좋은 코드다'라는 문장에 감명받아 테스트 코드에 대해 공부하고 있습니다.
+
+잘 부탁 드립니다.
+
+|개인 프로젝트|팀 프로젝트|
+|--|--|
+|[[링크]](https://github.com/bingonggan/binggongan-client)|[[링크]](https://github.com/WA-SUP/WASMble)|
+
 <!--
 **allansad/allansad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
