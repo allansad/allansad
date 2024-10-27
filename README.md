@@ -10,7 +10,7 @@
 
 ### 팀 프로젝트(3인) - WASMble
 - 자바스크립트 코드와 동일한 코드로 컴파일된 웹 어셈블리 모듈 간 성능 비교를 시각화한 웹 어플리케이션입니다.
-- [[github]](https://github.com/WA-SUP/WASMble)
+- [[github]](https://github.com/WA-SUP/WASMble/tree/feature/readme-1)
 
 <!--
 **allansad/allansad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
