@@ -1,11 +1,11 @@
 ## 안녕하세요 👋
-사람들에게 도움이 되는 것들을 만들고 싶어하는 개발자입니다.
+사람들에게 도움되는 것을 만들고 싶어하는 개발자 정의성입니다.
 
 잘 부탁 드립니다.
 
 ## Project
-### 개인 프로젝트 - 빈공간
-- 물건을 포장할 때 포장 상자의 크기와 최적의 배치 방법을 제안하는 상자 포장 시뮬레이터 입니다.
+### 개인 프로젝트(1인) - 빈공간
+- 물건을 포장할 때 포장 상자의 크기와 최적의 배치 방법을 제안하는 상자 포장 시뮬레이터입니다.
 - [[배포 링크]](https://bingonggan-d817b.firebaseapp.com/)|[[github-client]](https://github.com/bingonggan/binggongan-client)|[[github-server]](https://github.com/bingonggan/binggongan-server)
 
 ### 팀 프로젝트(3인) - WASMble
