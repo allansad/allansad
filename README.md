@@ -6,7 +6,7 @@
 ## Project
 ### 개인 프로젝트(1인) - 빈공간
 - 물건을 포장할 때 포장 상자의 크기와 최적의 배치 방법을 제안하는 상자 포장 시뮬레이터입니다.
-- [[배포 링크]](https://bingonggan-d817b.firebaseapp.com/)|[[github-client]](https://github.com/bingonggan/binggongan-client)|[[github-server]](https://github.com/bingonggan/binggongan-server)
+- [[배포 링크]](https://bingonggan-d817b.firebaseapp.com/)|[[github-client]](https://github.com/bingonggan/binggongan-client)|[[github-server]](https://github.com/bingonggan/bingonggan-server)
 
 ### 팀 프로젝트(3인) - WASMble
 - 자바스크립트 코드와 동일한 코드로 컴파일된 웹 어셈블리 모듈 간 성능 비교를 시각화한 웹 어플리케이션입니다.
