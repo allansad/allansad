@@ -23,7 +23,7 @@
 > 사용자가 입력한 코드가 자바스크립트와 웹 어셈블리로 실행된 후, 두 결과를 성능 그래프로 비교해 한눈에 확인할 수 있습니다.<br>
 > 사용자는 웹 어셈블리의 성능 이점을 이해하고, 적합한 상황에서의 활용 가능성을 탐색할 수 있습니다.
 > 
-> [[github]](https://github.com/WA-SUP/WASMble/tree/feature/readme-1)
+> [[배포 링크]](https://www.wasmble.site/) | [[github]](https://github.com/WA-SUP/WASMble)
 
 <!--
 **allansad/allansad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
